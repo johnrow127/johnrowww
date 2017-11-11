@@ -1,1 +1,1 @@
-clean as duck123
+<input type='text' class='wow'>
