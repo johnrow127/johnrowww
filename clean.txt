@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <input type='text' class='wow'>
+=======
+<input type='text'>
+>>>>>>> newbranch
